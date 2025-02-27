@@ -84,4 +84,4 @@ Plugins/*/Intermediate/*
 DerivedDataCache/*
 
 # DON'T IGNORE TEMPLATE CONFIG
-!Config/Tags/StawHatTags.ini
+!Config/Tags/StrawHatTags.ini
